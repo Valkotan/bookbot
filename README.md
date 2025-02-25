@@ -1,3 +1,3 @@
 # bookbot
 
-a bot that will analyze books
+A bot that will analyze books
